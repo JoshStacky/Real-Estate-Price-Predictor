@@ -1,0 +1,19 @@
+# Real Estate Price Predictor
+
+Random Forest regression model predicting property prices across three 
+Melbourne suburbs — Highton, Carnegie, and Brighton East.
+Includes an interactive Streamlit dashboard for model exploration.
+
+## Key Result
+R² of 0.72 on 1,600+ manually collected real estate records.
+
+## Features
+- Data collected manually from real listings across three suburbs
+- Random Forest model with hyperparameter tuning
+- Interactive Streamlit dashboard for price prediction
+
+## Tech
+Python, scikit-learn, pandas, Matplotlib, Streamlit
+
+## Usage
+```bash
